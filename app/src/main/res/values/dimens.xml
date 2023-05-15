@@ -12,4 +12,9 @@
 
     <dimen name="topappbar_height">64dp</dimen>
 
+    <dimen name="list_and_detail_list_padding_top">20dp</dimen>
+    <dimen name="list_and_detail_list_padding_end">16dp</dimen>
+
+    <dimen name="email_list_item_vertical_spacing">8dp</dimen>
+
 </resources>
